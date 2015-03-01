@@ -1,0 +1,26 @@
+{
+  "name": "rescale-vertices",
+  "version": "1.0.0",
+  "description": "Rescales vertices to the dimensions of a target bounding box",
+  "author": "thibauts",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "vertices-bounding-box": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/rescale-vertices.git"
+  },
+  "keywords": [
+    "rescale",
+    "vertices",
+    "mesh",
+    "bounding-box",
+    "bounding",
+    "box"
+  ]
+}
